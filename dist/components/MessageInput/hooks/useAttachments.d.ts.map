@@ -1,0 +1,1 @@
+{"version":3,"file":"useAttachments.d.ts","sourceRoot":"","sources":["../../../../src/components/MessageInput/hooks/useAttachments.ts"],"names":[],"mappings":"AAUA,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,iBAAiB,CAAC;AACzD,OAAO,KAAK,EAAE,yBAAyB,EAAE,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAE3F,OAAO,KAAK,EAAE,aAAa,EAA6B,MAAM,sBAAsB,CAAC;AAIrF,eAAO,MAAM,cAAc;;;;;;;;CA0E1B,CAAC"}

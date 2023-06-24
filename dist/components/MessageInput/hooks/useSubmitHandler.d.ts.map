@@ -1,0 +1,1 @@
+{"version":3,"file":"useSubmitHandler.d.ts","sourceRoot":"","sources":["../../../../src/components/MessageInput/hooks/useSubmitHandler.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,EAAE,yBAAyB,EAAE,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAC3F,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,iBAAiB,CAAC;AAEzD,OAAO,KAAK,EAAE,aAAa,EAA6B,MAAM,sBAAsB,CAAC;AAQrF,eAAO,MAAM,gBAAgB,+QAOV,MAAM;;CAkLxB,CAAC"}

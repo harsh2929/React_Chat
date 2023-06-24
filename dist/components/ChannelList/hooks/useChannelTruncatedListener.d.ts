@@ -1,0 +1,3 @@
+import type { Channel, Event } from 'stream-chat';
+export declare const useChannelTruncatedListener: <StreamChatGenerics extends unknown = any>(setChannels: React.Dispatch<React.SetStateAction<Channel<StreamChatGenerics>[]>>, customHandler?: ((setChannels: React.Dispatch<React.SetStateAction<Channel<StreamChatGenerics>[]>>, event: Event<StreamChatGenerics>) => void) | undefined, forceUpdate?: () => void) => void;
+//# sourceMappingURL=useChannelTruncatedListener.d.ts.map

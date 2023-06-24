@@ -1,0 +1,1 @@
+{"version":3,"file":"useImageUploads.d.ts","sourceRoot":"","sources":["../../../../src/components/MessageInput/hooks/useImageUploads.ts"],"names":[],"mappings":"AAUA,OAAO,KAAK,EAAE,yBAAyB,EAAE,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAC3F,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,iBAAiB,CAAC;AAEzD,OAAO,KAAK,EAAE,aAAa,EAA6B,MAAM,sBAAsB,CAAC;AAErF,eAAO,MAAM,eAAe;;;CA8G3B,CAAC"}

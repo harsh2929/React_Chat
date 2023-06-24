@@ -1,0 +1,2 @@
+export declare const useMessageNewListener: <StreamChatGenerics extends unknown = any>(setChannels: React.Dispatch<React.SetStateAction<Channel<StreamChatGenerics>[]>>, lockChannelOrder?: boolean, allowNewMessagesFromUnfilteredChannels?: boolean) => void;
+//# sourceMappingURL=useMessageNewListener.d.ts.map

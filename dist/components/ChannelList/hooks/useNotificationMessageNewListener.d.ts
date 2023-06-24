@@ -1,0 +1,3 @@
+import type { Channel, Event } from 'stream-chat';
+export declare const useNotificationMessageNewListener: <StreamChatGenerics extends unknown = any>(setChannels: React.Dispatch<React.SetStateAction<Channel<StreamChatGenerics>[]>>, customHandler?: ((setChannels: React.Dispatch<React.SetStateAction<Channel<StreamChatGenerics>[]>>, event: Event<StreamChatGenerics>) => void) | undefined, allowNewMessagesFromUnfilteredChannels?: boolean) => void;
+//# sourceMappingURL=useNotificationMessageNewListener.d.ts.map
